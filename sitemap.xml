@@ -4,6 +4,39 @@
         <loc>https://www.easygamemaker.com/</loc>
     </url>
     <url>
+        <loc>https://www.easygamemaker.com/docs</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/introduction</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/introduction/events</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/introduction/export</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/introduction/global-variables</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/introduction/images</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/introduction/levels</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/introduction/object-types</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/tutorials</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/tutorials/how-to-create-a-platform-game</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/tutorials/creating-a-top-down-shooter-game</loc>
+    </url>
+    <url>
         <loc>https://www.easygamemaker.com/create</loc>
     </url>
     <url>
@@ -14,5 +47,8 @@
     </url>
     <url>
         <loc>https://www.easygamemaker.com/features</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/community</loc>
     </url>
 </urlset> 
