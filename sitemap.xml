@@ -10,28 +10,79 @@
         <loc>https://www.easygamemaker.com/docs/introduction</loc>
     </url>
     <url>
-        <loc>https://www.easygamemaker.com/docs/expressions</loc>
+        <loc>https://www.easygamemaker.com/docs/visual-scripts/expressions</loc>
     </url>
     <url>
-        <loc>https://www.easygamemaker.com/docs/introduction/visual-scripts</loc>
+        <loc>https://www.easygamemaker.com/docs/import</loc>
     </url>
     <url>
-        <loc>https://www.easygamemaker.com/docs/introduction/export</loc>
+        <loc>https://www.easygamemaker.com/docs/game-properties</loc>
     </url>
     <url>
-        <loc>https://www.easygamemaker.com/docs/introduction/global-variables</loc>
+        <loc>https://www.easygamemaker.com/docs/physics-engine</loc>
     </url>
     <url>
-        <loc>https://www.easygamemaker.com/docs/introduction/images</loc>
+        <loc>https://www.easygamemaker.com/docs/physics-engine/matter-js</loc>
     </url>
     <url>
-        <loc>https://www.easygamemaker.com/docs/introduction/audios</loc>
+        <loc>https://www.easygamemaker.com/docs/physics-engine/matter-js-constraints</loc>
     </url>
     <url>
-        <loc>https://www.easygamemaker.com/docs/introduction/levels</loc>
+        <loc>https://www.easygamemaker.com/docs/extensions</loc>
     </url>
     <url>
-        <loc>https://www.easygamemaker.com/docs/introduction/object-types</loc>
+        <loc>https://www.easygamemaker.com/docs/extensions/neuroevolution</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/advanced-settings</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/object-types/animations</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/object-types/behaviours</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/visual-scripts</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/visual-scripts/actions</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/visual-scripts/conditions</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/visual-scripts/loops</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/visual-scripts/comments</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/visual-scripts/visual-script-functions</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/export</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/global-variables</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/resources</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/resources/images</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/resources/audios</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/levels</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/levels/level-editor</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/docs/object-types</loc>
     </url>
     <url>
         <loc>https://www.easygamemaker.com/tutorials</loc>
