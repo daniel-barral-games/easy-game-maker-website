@@ -37,6 +37,9 @@
         <loc>https://www.easygamemaker.com/docs/extensions/advanced-audio</loc>
     </url>
     <url>
+        <loc>https://www.easygamemaker.com/docs/extensions/multiplayer</loc>
+    </url>
+    <url>
         <loc>https://www.easygamemaker.com/docs/advanced-settings</loc>
     </url>
     <url>
@@ -128,6 +131,13 @@
     </url>
     <url>
         <loc>https://www.easygamemaker.com/changelog</loc>
+    </url>
+
+    <url>
+        <loc>https://www.easygamemaker.com/online-tools</loc>
+    </url>
+    <url>
+        <loc>https://www.easygamemaker.com/online-tools/gun-database-manager</loc>
     </url>
 
     <url>
